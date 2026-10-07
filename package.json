@@ -24,7 +24,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bezalel6/simple-lichess"
+    "url": "git+https://github.com/RNDev666/simple-lichess"
   },
   "keywords": [
     "lichess",
@@ -39,10 +39,11 @@
   ],
   "author": "Kenneth Reilly @8_bit_hacker",
   "license": "MIT",
+  "funding": "https://ko-fi.com/rndev666",
   "bugs": {
-    "url": "https://github.com/bezalel6/simple-lichess"
+    "url": "https://github.com/RNDev666/simple-lichess"
   },
-  "homepage": "https://github.com/bezalel6/simple-lichess#readme",
+  "homepage": "https://github.com/RNDev666/simple-lichess#readme",
   "dependencies": {
     "@bity/oauth2-auth-code-pkce": "^2.13.0",
     "cross-fetch": "^3.1.5"
